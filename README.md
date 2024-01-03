@@ -1,3 +1,8 @@
+# Development moved to [https://github.com/develar/d2-intellij-plugin](https://github.com/develar/d2-intellij-plugin)
+
+
+---
+
 # d2-intellij
 
 ![Build](https://github.com/DVDAndroid/d2-intellij/workflows/Build/badge.svg)
